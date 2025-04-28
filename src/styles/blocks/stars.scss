@@ -15,22 +15,22 @@
     margin-right: 4px;
   }
 
-  &--0 &__star:nth-child(-n + 4) {
+  &--0 &__star:nth-child(-n + 0) {
     background-image: none;
     background-image: url('../images/star-active.svg');
   }
 
-  &--1 &__star:nth-child(-n + 4) {
+  &--1 &__star:nth-child(-n + 1) {
     background-image: none;
     background-image: url('../images/star-active.svg');
   }
 
-  &--2 &__star:nth-child(-n + 4) {
+  &--2 &__star:nth-child(-n + 2) {
     background-image: none;
     background-image: url('../images/star-active.svg');
   }
 
-  &--3 &__star:nth-child(-n + 4) {
+  &--3 &__star:nth-child(-n + 3) {
     background-image: none;
     background-image: url('../images/star-active.svg');
   }
@@ -40,7 +40,7 @@
     background-image: url('../images/star-active.svg');
   }
 
-  &--5 &__star:nth-child(-n + 4) {
+  &--5 &__star:nth-child(-n + 5) {
     background-image: none;
     background-image: url('../images/star-active.svg');
   }
